@@ -3,11 +3,11 @@
 #!/bin/bash
 if [ $# -eq 1 ]
 then
-  i=$1
-  for i in $(seq 1 $1)
-  do
-   echo $i
-  done
+i=$1
+for i in $(seq 1 $1)
+ do
+  echo $i
+ done
 else
- echo "Digite um único valor positivo"
+echo "Digite um único valor positivo"
 fi
