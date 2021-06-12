@@ -1,5 +1,5 @@
 # autor: Ademar Neto.
-# descrição: No exercício 03 o código quando executado imprime os valores de 1 a 10 em ordem crescente.
+# descrição: No exercício 3 o código quando executado imprime os valores de 1 a 10 em ordem crescente.
 if [ $# -eq 0 ]
 then
  i=0
