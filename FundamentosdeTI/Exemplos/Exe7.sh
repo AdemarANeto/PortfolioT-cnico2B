@@ -1,4 +1,4 @@
-# autpr: Ademar neto.
+# autor: Ademar Neto.
 # descrição: Neste exercício deveríamos criar um alogritmo para ler o preço de 15 produtos, calcular a média entre eles e qual foi o maior preço lido pelo algortimo entre esses 15 produtos.
 #!/bin/bash
 soma=0
