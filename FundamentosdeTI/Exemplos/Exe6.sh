@@ -1,5 +1,5 @@
 # autor: Ademar Neto.
-# descrição: neste exercío 6 deveríamso modificar o exercício 5 para ele somente aceitar valores positivos.
+# descrição: Neste exercício 6 deveríamos modificar o exercício 5 para ele somente aceitar valores positivos.
 #!/bin/bash
 if [ $3 -eq 1 ]
 then
