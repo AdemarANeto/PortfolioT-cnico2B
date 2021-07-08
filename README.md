@@ -7,10 +7,12 @@ Descrição...
 * [Exemplo 05](FundamentosdeTI/Exemplos/Exe5.sh)
 * [Exemplo 06](FundamentosdeTI/Exemplos/Exe6.sh)
 * [Exemplo 07](FundamentosdeTI/Exemplos/Exe7.sh)
-* [Exemplo  A](FundamentosdeTI/Exemplos/ExeA.sh)
-* [Exemplo  B](FundamentosdeTI/Exemplos/ExeB.sh)
-* [Exemplo  C](FundamentosdeTI/Exemplos/ExeC.sh)
-* [Exemplo 10-06](FundamentosdeTI/Exemplos/Exe1
+* [Exemplo A](FundamentosdeTI/Exemplos/01-07-2021 ExeA.sh)
+* [Exemplo B](FundamentosdeTI/Exemplos/01-07-2021 ExeB.sh)
+* [Exemplo C](FundamentosdeTI/Exemplos/01-07-2021 ExeC.sh)
+* [Exemplo 10-06 .1](FundamentosdeTI/Exemplos/10-06.Exe1.sh)
+* [Exemplo 10-06 .2](FundamentosdeTI/Exemplos/10-06.Exe2.sh)
+* [Exemplo 10-06 .3](FundamentosdeTI/Exemplos/10-06.Exe3.sh)
 
 ## PortfolioTecnico2B
 Sou o Ademar tenho 17 anos.
