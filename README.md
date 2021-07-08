@@ -1,6 +1,12 @@
 Descrição...
 
 * [Exemplo 01](FundamentosdeTI/Exemplos/Exe1.sh)
+* [Exemplo 02](FundamentosdeTI/Exemplos/Exe02.sh)
+* [Exemplo 03](FundamentosdeTI/Exemplos/Exe03.sh)
+* [Exemplo 04](FundamentosdeTI/Exemplos/Exe4.sh)
+* [Exemplo 05](FundamentosdeTI/Exemplos/Exe5.sh)
+* [Exemplo 06](FundamentosdeTI/Exemplos/Exe6.sh)
+* [Exemplo 07](FundamentosdeTI/Exemplos/Exe7.sh)
 
 ## PortfolioTecnico2B
 Sou o Ademar tenho 17 anos.
