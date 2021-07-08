@@ -1,6 +1,6 @@
 Descrição...
 
-# [Exemplo 1] (Fundamentos 
+# [Exemplo 1] (FundamentosdeTI/Exemplos/Exe1.sh)
 
 ### PortfolioTecnico2B
 Sou o Ademar tenho 17 anos.
