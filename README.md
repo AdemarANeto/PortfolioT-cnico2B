@@ -15,8 +15,9 @@ Descrição...
 * [Exemplo 10-06 .3](FundamentosdeTI/Exemplos/10-06.Exe3.sh)
 
 ## Lógica comptuacional
-* [Exemplo Logica computacional](Logica_Computacional/Exemplo_Jackson.java)
-* [Exemplo 2 logica computacional](Logica_Computacional/Exemplo_Jackson2.java)
+* [Exemplo Logica Computacional](Logica_Computacional/Exemplo_Jackson.java)
+* [Exemplo 2 Logica Computacional](Logica_Computacional/Exemplo_Jackson2.java)
+* [Exemplo 3 Logica Computacional](Logica_Computacional/Exemplo_Jackson3.java) 
 
 # PortfolioTecnico2B
 Sou o Ademar tenho 17 anos.
