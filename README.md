@@ -16,6 +16,7 @@ Descrição...
 
 ## Lógica comptuacional
 
+
 # PortfolioTecnico2B
 Sou o Ademar tenho 17 anos.
 ## Cursos
