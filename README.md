@@ -16,7 +16,7 @@ Descrição...
 
 ## Lógica comptuacional
 
-## PortfolioTecnico2B
+# PortfolioTecnico2B
 Sou o Ademar tenho 17 anos.
 ## Cursos
 * Inglês feito na KNN: básico/intermediário
