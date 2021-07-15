@@ -16,7 +16,7 @@ Descrição...
 
 ## Lógica comptuacional
 * [Exemplo Logica computacional](Logica_Computacional/Exemplo_Jackson.java)
-* [](Logica_Computacional/)
+* [Exemplo 2 logica computacional](Logica_Computacional/Exemplo_Jackson2.java)
 
 # PortfolioTecnico2B
 Sou o Ademar tenho 17 anos.
