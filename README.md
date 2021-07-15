@@ -8,7 +8,7 @@ Descrição...
 * [Exemplo 06](FundamentosdeTI/Exemplos/Exe6.sh)
 * [Exemplo 07](FundamentosdeTI/Exemplos/Exe7.sh)
 * [Exemplo A](FundamentosdeTI/Exemplos/01-07-2021ExeA.sh)
-* [Exemplo B](FundamentosdeTI/Exemplos/01-07-2021 ExeB.sh)
+* [Exemplo B](FundamentosdeTI/Exemplos/01-07-2021ExeB.sh)
 * [Exemplo C](FundamentosdeTI/Exemplos/01-07-2021 ExeC.sh)
 * [Exemplo 10-06 .1](FundamentosdeTI/Exemplos/10-06.Exe1.sh)
 * [Exemplo 10-06 .2](FundamentosdeTI/Exemplos/10-06.Exe2.sh)
