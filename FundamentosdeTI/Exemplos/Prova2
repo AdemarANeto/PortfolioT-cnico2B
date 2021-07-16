@@ -1,0 +1,23 @@
+#!/bin/bash
+var=$(ls -ld $1)
+tam=${var:1:1}
+if [[ $tam == 'r' ]]
+then
+echo "O dono tem permissao de leitura!"
+else
+echo "O dono nao possui permissao de leitura"
+fi
+tamanho=${var:2:1}
+if [[ $tamanho == 'w' ]]
+then
+echo "O dono tem permissao de escrita!"
+else
+echo "O dono nao possui permissao de escrita"
+fi
+tama=${var:3:1}
+if [[ $tama == 'x' ]]
+then
+echo "O dono tem permissao de execucao!"
+else
+echo "O dono nao possui permissao de execucao"
+fi
