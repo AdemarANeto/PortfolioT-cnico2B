@@ -13,6 +13,7 @@ Descrição...
 * [Exemplo 10-06 .1](FundamentosdeTI/Exemplos/10-06.Exe1.sh)
 * [Exemplo 10-06 .2](FundamentosdeTI/Exemplos/10-06.Exe2.sh)
 * [Exemplo 10-06 .3](FundamentosdeTI/Exemplos/10-06.Exe3.sh)
+* [Exemplo 12-08](FundamentosdeTI/Exemplos/Aula12-08.sh)
 
 ## Lógica comptuacional
 * [Exemplo Logica Computacional](Logica_Computacional/Exemplo_Jackson.java)
