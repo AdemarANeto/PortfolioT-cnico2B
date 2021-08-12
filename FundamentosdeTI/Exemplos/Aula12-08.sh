@@ -1,5 +1,5 @@
 # Autor: Ademar Neto.
-# Descrição: Devíamso fazer um shell script que utilizasse alguma condição.
+# Descrição: Devíamos fazer um shell script que utilizasse alguma condição.
 #!/bin/bash
 echo "Digite um número"
 read x
