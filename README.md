@@ -25,7 +25,7 @@ Descrição...
 * [Exemplo 03.2 Logica computacional](Logica_Computacional/Exemp3.java)
 
 # PortfolioTecnico2B
-Sou o Ademar tenho 17 anos.
+Sou o Ademar tenho 18 anos.
 ## Cursos
 * Inglês feito na KNN: básico/intermediário
 * Informática feito no Instituto Mix: Excel, Word e outros conhecimentos gerais sobre os softwares de um comptuador básico/intermediário.
