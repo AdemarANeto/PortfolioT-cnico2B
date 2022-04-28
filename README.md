@@ -26,7 +26,7 @@ Descrição...
 
 
 # Atividades
-* [Autoria_1](Logica_Comptuacional/ModelagemdeSistemas/DiagramaTime.png)
+* [Autoria_1](Logica_Comptuacional/ModelagemdeSistemas/Diagrama Time.png)
 # PortfolioTecnico2B
 Sou o Ademar tenho 18 anos.
 ## Cursos
