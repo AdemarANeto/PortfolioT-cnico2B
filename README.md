@@ -28,6 +28,7 @@ Descrição...
 # Atividades
 * [Autoria_Time](ModelagemdeSistemas/Diagrama%20Time.png):Modelagem de Sistemas, escolhi fazer esse diagrama com relacionamentos de composição(forte) e agregação(fraco), pois gostei deste tema, ai fiz um diagrama envolvendo um time de futebol.
 * [Autoria_1](ModelagemdeSistemas/Aut%201.png): No dia 7 e 20 de Abril a professora Ana no passou uma prova sobre criarmos um diagrama de classes e depis passá-lo para o Java. Criei um Diagrama sobre Artistas, Banda, Bares, Pessoas e Sistema. Relacionando todos eles. Não achei a prova muito difícil. 
+* [Autoria_2](ModelagemdeSistemas/Aut%202.png)
 # PortfolioTecnico2B
 Sou o Ademar tenho 18 anos.
 ## Cursos
