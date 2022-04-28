@@ -26,7 +26,7 @@ Descrição...
 
 
 # Atividades
-* [Autoria_1](Logica_Comptuacional/ModelagemdeSistemas/Diagrama%20Time.png):Modelagem de Sistemas, escolhi fazer esse diagrama com relacionamentos de composição(forte) e agregação(fraco), pois gostei deste tema, ai fiz um diagrama envolvendo um time de futebol.
+* [Autoria_1](ModelagemdeSistemas/Diagrama%20Time.png):Modelagem de Sistemas, escolhi fazer esse diagrama com relacionamentos de composição(forte) e agregação(fraco), pois gostei deste tema, ai fiz um diagrama envolvendo um time de futebol.
 # PortfolioTecnico2B
 Sou o Ademar tenho 18 anos.
 ## Cursos
