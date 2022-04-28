@@ -24,6 +24,9 @@ Descrição...
 * [Exemplo 02.2 Logica computacional](Logica_Computacional/Exemp2.java)
 * [Exemplo 03.2 Logica computacional](Logica_Computacional/Exemp3.java)
 
+
+# Atividades
+* [Autoria_1](Logica_Comptuacional/ModelagemdeSistemas/DiagramaTime.sql)
 # PortfolioTecnico2B
 Sou o Ademar tenho 18 anos.
 ## Cursos
